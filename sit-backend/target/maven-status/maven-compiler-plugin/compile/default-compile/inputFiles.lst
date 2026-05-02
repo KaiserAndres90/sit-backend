@@ -6,6 +6,7 @@ D:\Users\intel\Desktop\Andres\1-ING SOFTWARE\7-SEMESTRE\PROYECTO DE SOFTWARE\COD
 D:\Users\intel\Desktop\Andres\1-ING SOFTWARE\7-SEMESTRE\PROYECTO DE SOFTWARE\CODE_GESTOR DE TICKETS\sit-backend\src\main\java\com\sit\dto\AuthResponse.java
 D:\Users\intel\Desktop\Andres\1-ING SOFTWARE\7-SEMESTRE\PROYECTO DE SOFTWARE\CODE_GESTOR DE TICKETS\sit-backend\src\main\java\com\sit\util\SecurityUtils.java
 D:\Users\intel\Desktop\Andres\1-ING SOFTWARE\7-SEMESTRE\PROYECTO DE SOFTWARE\CODE_GESTOR DE TICKETS\sit-backend\src\main\java\com\sit\dto\CommentRequest.java
+D:\Users\intel\Desktop\Andres\1-ING SOFTWARE\7-SEMESTRE\PROYECTO DE SOFTWARE\CODE_GESTOR DE TICKETS\sit-backend\src\main\java\com\sit\controller\HealthController.java
 D:\Users\intel\Desktop\Andres\1-ING SOFTWARE\7-SEMESTRE\PROYECTO DE SOFTWARE\CODE_GESTOR DE TICKETS\sit-backend\src\main\java\com\sit\dto\MyTicketSummaryResponse.java
 D:\Users\intel\Desktop\Andres\1-ING SOFTWARE\7-SEMESTRE\PROYECTO DE SOFTWARE\CODE_GESTOR DE TICKETS\sit-backend\src\main\java\com\sit\repository\TicketRepository.java
 D:\Users\intel\Desktop\Andres\1-ING SOFTWARE\7-SEMESTRE\PROYECTO DE SOFTWARE\CODE_GESTOR DE TICKETS\sit-backend\src\main\java\com\sit\exception\GlobalExceptionHandler.java

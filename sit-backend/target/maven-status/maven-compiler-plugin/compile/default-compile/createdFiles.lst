@@ -38,6 +38,7 @@ com\sit\config\DataInitializer.class
 com\sit\dto\AuthResponse$AuthResponseBuilder.class
 com\sit\model\Comment.class
 com\sit\model\Role.class
+com\sit\controller\HealthController.class
 com\sit\controller\UserController.class
 com\sit\dto\TicketStatusUpdateRequest$TicketStatusUpdateRequestBuilder.class
 com\sit\util\SecurityUtils.class

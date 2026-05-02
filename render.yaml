@@ -1,0 +1,25 @@
+services: 
+  - type: web 
+    name: gestor-tickets-api 
+    runtime: java 
+    plan: free 
+    buildCommand: ./mvnw clean package 
+    startCommand: java -jar target/sit-backend-1.0.0.jar 
+    envVars: 
+      - key: SPRING_DATASOURCE_URL 
+        fromDatabase: 
+          name: gestor-tickets-db 
+          property: connectionString 
+      - key: SPRING_DATASOURCE_USERNAME 
+        fromDatabase: 
+          name: gestor-tickets-db 
+          property: user 
+      - key: SPRING_DATASOURCE_PASSWORD 
+        fromDatabase: 
+          name: gestor-tickets-db 
+          property: password 
+databases: 
+  - name: gestor-tickets-db 
+    plan: free 
+    databaseName: gestor_tickets 
+    user: gestor_user 
